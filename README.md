@@ -10,6 +10,10 @@ The following machine learning algorithms are implemented in this repository:
 
 3. K-Nearest Neighbors (KNN)
 
+4. Decision Tree
+
+5. Random Forest
+
 
 
 ## Requirements
