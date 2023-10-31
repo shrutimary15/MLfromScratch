@@ -14,6 +14,8 @@ The following machine learning algorithms are implemented in this repository:
 
 5. Random Forest
 
+6. PCA(Principal Component Analysis)
+
 
 
 ## Requirements
