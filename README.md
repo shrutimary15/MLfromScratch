@@ -20,6 +20,8 @@ The following machine learning algorithms are implemented in this repository:
 
 8. SVM
 
+9. KMeans
+
 
 
 ## Requirements
