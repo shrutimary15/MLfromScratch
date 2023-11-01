@@ -16,6 +16,10 @@ The following machine learning algorithms are implemented in this repository:
 
 6. PCA(Principal Component Analysis)
 
+7. Perceptron
+
+8. SVM
+
 
 
 ## Requirements
